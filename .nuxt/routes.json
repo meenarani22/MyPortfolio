@@ -1,0 +1,79 @@
+[
+  {
+    "name": "index-new",
+    "path": "/index-new",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new.vue",
+    "chunkName": "pages/index-new",
+    "_name": "_b19df158"
+  },
+  {
+    "name": "index-new-bg-image",
+    "path": "/index-new-bg-image",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-bg-image.vue",
+    "chunkName": "pages/index-new-bg-image",
+    "_name": "_8e7e9348"
+  },
+  {
+    "name": "index-new-dark",
+    "path": "/index-new-dark",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-dark.vue",
+    "chunkName": "pages/index-new-dark",
+    "_name": "_6e748a02"
+  },
+  {
+    "name": "index-new-demo-2",
+    "path": "/index-new-demo-2",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-demo-2.vue",
+    "chunkName": "pages/index-new-demo-2",
+    "_name": "_74169dde"
+  },
+  {
+    "name": "index-new-demo-3",
+    "path": "/index-new-demo-3",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-demo-3.vue",
+    "chunkName": "pages/index-new-demo-3",
+    "_name": "_73fa6edc"
+  },
+  {
+    "name": "index-new-demo-4",
+    "path": "/index-new-demo-4",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-demo-4.vue",
+    "chunkName": "pages/index-new-demo-4",
+    "_name": "_73de3fda"
+  },
+  {
+    "name": "index-new-demo-5",
+    "path": "/index-new-demo-5",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-demo-5.vue",
+    "chunkName": "pages/index-new-demo-5",
+    "_name": "_73c210d8"
+  },
+  {
+    "name": "index-new-demo-6",
+    "path": "/index-new-demo-6",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-demo-6.vue",
+    "chunkName": "pages/index-new-demo-6",
+    "_name": "_73a5e1d6"
+  },
+  {
+    "name": "index-new-demo-7",
+    "path": "/index-new-demo-7",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-demo-7.vue",
+    "chunkName": "pages/index-new-demo-7",
+    "_name": "_7389b2d4"
+  },
+  {
+    "name": "index-new-demo-8",
+    "path": "/index-new-demo-8",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index-new-demo-8.vue",
+    "chunkName": "pages/index-new-demo-8",
+    "_name": "_736d83d2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Meena Work\\\\Template Website\\\\themeforest-r9JRheTR-ryan-cvresume-vue-template\\\\package\\\\ryan\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3c1aa701"
+  }
+]
